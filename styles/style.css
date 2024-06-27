@@ -87,7 +87,7 @@ ol {
   display: flex;
   align-items: flex-end;
   gap: 40px;
-  margin-bottom: 2px;
+  margin-bottom: 5px;
 }
 
 .search-form__fieldset-title {
@@ -205,7 +205,7 @@ ol {
   font-weight: 700;
   font-size: 75px;
   font-style: normal;
-  line-height: 87%;
+  line-height: 70.5px;
   text-transform: uppercase;
 }
 
@@ -229,7 +229,7 @@ ol {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 26px;
+  gap: 18px;
 }
 
 .content__list-item {
