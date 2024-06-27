@@ -271,7 +271,8 @@ ol {
   font-style: normal;
   line-height: 16.2px;
   max-width: 200px;
-  overflow: auto;
+  /* Вот блин, а я даже не заметил на макбуке. Очки что-ли надо новые? */
+  overflow: hidden; 
 }
 
 .content__card-link {
